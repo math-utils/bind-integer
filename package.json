@@ -1,0 +1,28 @@
+{
+  "name": "bind-integer",
+  "description": "bind a value between a min and a max",
+  "version": "0.0.0",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": "math-utils/bind-integer",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "0"
+  },
+  "scripts": {
+    "test": "node test",
+    "test-cov": "istanbul cover test"
+  },
+  "keywords": [
+    "integer",
+    "bind",
+    "math",
+    "min",
+    "max"
+  ]
+}
